@@ -1,0 +1,5 @@
+module Cnewt [system] {
+    header "/usr/include/newt.h"
+    link "newt"
+    export *
+}
